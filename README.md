@@ -1,6 +1,6 @@
 # JAVA_Spring-Boot_Rest-Api
 ## Dependencies
-Spring Boot DevTools
+Spring Boot DevTools \n
 Lombok
 Spring Web
 Spring Data JPA
